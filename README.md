@@ -27,19 +27,36 @@
 
 <br/>
 
-## 🧠 About Me
+<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
+<!-- Card-style About Me -->
+<table>
+  <tr>
+    <td style="border: none; border-radius: 18px; background: linear-gradient(135deg, #0d1117, #161b22); padding: 28px 30px; color: #c9d1d9; box-shadow: 0 6px 18px rgba(0,0,0,0.6);">
+      <h2 style="margin-top: 0;">🧠 About Me</h2>
+      <p>
+        🎓 <strong>B.E. Computer Science & Engineering</strong> — <em>Artificial Intelligence & Machine Learning</em><br>
+        🔭 Building intelligent systems at the intersection of <strong>Generative AI, Agentic AI & Full Stack Development</strong><br>
+        🌱 Deep-diving into <strong>RAG pipelines, LLM fine-tuning, Multi-Agent Systems & AI Automation</strong><br>
+        💡 Driven by curiosity, sharp problem-solving instincts, and a genuine love for shipping things that work<br>
+        ⚡ Always exploring new tools, frameworks, and ideas at the edge of applied AI<br>
+        🎯 Actively seeking opportunities as an <strong>AI Engineer / Data Scientist</strong> to build impactful, real-world AI products<br>
+        💬 <em>Ask me about LLMs, RAG systems, Generative AI, or AI-powered product builds</em>
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/mohameed-yaseen-m-974059374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="mailto:mohameedyaseen2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="https://leetcode.com/u/mohamedyaseenm_1225/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+        <a href="https://www.hackerrank.com/profile/mohameedyaseen21"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+      </p>
+    </td>
+    <td style="border: none; padding: 0 10px;" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.5);" />
+    </td>
+  </tr>
+</table>
 
-- 🎓 B.E. Computer Science & Engineering — **Artificial Intelligence & Machine Learning**
-- 🔭 Currently building intelligent systems at the intersection of **Generative AI**, **Agentic AI**, and **Full Stack Development**
-- 🌱 Deep-diving into **RAG pipelines**, **LLM fine-tuning**, **Multi-Agent Systems**, and **AI Automation**
-- 💡 Driven by curiosity, sharp problem-solving instincts, and a genuine love for shipping things that work
-- ⚡ Always exploring new tools, frameworks, and ideas at the edge of applied AI
-- 🎯 Actively seeking opportunities as an **AI Engineer** / **Data Scientist** to build impactful, real-world AI products
-- 💬 Ask me about **LLMs, RAG systems, Generative AI, or AI-powered product builds**
-
-<br clear="right"/>
+</div>
 
 ---
 
