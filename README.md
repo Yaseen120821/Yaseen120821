@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Mohameed%20Yaseen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20GenAI%20Builder&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=250&section=header&text=Mohameed%20Yaseen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+### AI & ML Engineer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; GenAI Enthusiast
 
 <br/>
 
@@ -106,8 +108,8 @@ An AI-driven platform that transforms ideas into compelling narrative content, b
 - 🔐 Secure social OAuth login
 - ⚡ Real-time content generation
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://linked-story.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaseen120821/Linked_Story)
 
 </td>
 <td width="50%">
@@ -124,8 +126,7 @@ A context-aware conversational AI that retrieves relevant knowledge from a custo
 - 🔍 Semantic search retrieval
 - 💬 Natural conversational flow
 
-[![Demo](https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaseen120821/Admission-ChatBot)
 
 </td>
 </tr>
