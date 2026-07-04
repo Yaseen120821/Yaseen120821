@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1200 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="paperGrain" width="5" height="5" patternUnits="userSpaceOnUse">
+      <rect width="5" height="5" fill="#F5F0E6"/>
+      <circle cx="1" cy="1" r="0.35" fill="#e2d9c4" opacity="0.6"/>
+      <circle cx="3.2" cy="3.5" r="0.3" fill="#e2d9c4" opacity="0.5"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="290" fill="url(#paperGrain)"/>
+
+  <rect x="40" y="22" width="1120" height="7" fill="#1a1a1a"/>
+  <rect x="40" y="33" width="1120" height="2" fill="#1a1a1a"/>
+
+  <text x="70" y="60" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3" fill="#1a1a1a">VOL. I</text>
+  <text x="1130" y="60" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="3" fill="#1a1a1a">NO. 001</text>
+
+  <text x="600" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" letter-spacing="2" fill="#1a1a1a" filter="url(#softShadow)">THE YASEEN TIMES</text>
+
+  <text x="600" y="163" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" fill="#1a1a1a">&#8220;All The Code That&#8217;s Fit To Ship&#8221;</text>
+
+  <rect x="160" y="182" width="880" height="1.5" fill="#1a1a1a"/>
+
+  <polygon points="380,206 387,214 380,222 373,214" fill="#1a1a1a"/>
+  <polygon points="820,206 827,214 820,222 813,214" fill="#1a1a1a"/>
+
+  <text x="120" y="219" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="1" fill="#1a1a1a">COIMBATORE &amp; CHENNAI, INDIA</text>
+  <text x="600" y="219" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="1" fill="#1a1a1a">AI &amp; MACHINE LEARNING EDITION</text>
+  <text x="1080" y="219" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="1" fill="#1a1a1a">PRICE: FREE</text>
+
+  <rect x="40" y="248" width="1120" height="2" fill="#1a1a1a"/>
+  <rect x="40" y="254" width="1120" height="7" fill="#1a1a1a"/>
+
+  <text x="600" y="280" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="4" fill="#1a1a1a">EXTRA — EXTRA — READ ALL ABOUT IT</text>
+</svg>
